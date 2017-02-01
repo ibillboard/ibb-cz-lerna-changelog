@@ -1,4 +1,4 @@
-import conventionalChangelog from 'cz-conventional-changelog';
+import conventionalChangelog from 'ibb-cz-conventional-changelog';
 
 import PackageUtilities from 'lerna/lib/PackageUtilities';
 import Repository from 'lerna/lib/Repository';
