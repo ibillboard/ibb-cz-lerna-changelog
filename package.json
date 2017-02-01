@@ -17,7 +17,7 @@
   "author": "Joshua Nelson <jonelson@atlassian.com>, Joscha Feth <jfeth@atlassian.com>",
   "license": "MIT",
   "dependencies": {
-    "ibb-cz-conventional-changelog": "^1.2.0",
+    "ibb-cz-conventional-changelog": "git://github.com:ibillboard/ibb-cz-conventional-changelog.git",
     "shelljs": "0.7.0"
   },
   "peerDependencies": {
