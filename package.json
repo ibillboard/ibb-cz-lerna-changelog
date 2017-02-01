@@ -4,10 +4,8 @@
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "babel src -d lib",
     "commit": "git-cz",
     "test": "mocha --compilers js:babel-register test/**/*.js",
-    "prepublish": "npm run build",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
